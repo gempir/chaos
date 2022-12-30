@@ -1,0 +1,23 @@
+{
+  "name": "chaos",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "chaos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gempir/chaos.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gempir/chaos/issues"
+  },
+  "homepage": "https://github.com/gempir/chaos#readme",
+  "dependencies": {
+    "graphql-request": "^5.1.0"
+  }
+}
